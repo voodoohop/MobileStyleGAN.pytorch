@@ -1,7 +1,8 @@
 wheel
-torch
-pytorch-lightning==1.0.2
-gdown
+torch==1.7.1
+pytorch-lightning==1.2.2
+torchtext==0.8.0
+gdown==3.12.2
 addict
 piq
 numpy
@@ -10,3 +11,4 @@ git+git://github.com/fbcotter/pytorch_wavelets.git
 neptune-client
 kornia
 pytorch_fid
+ninja
